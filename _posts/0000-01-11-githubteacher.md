@@ -7,5 +7,5 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 
-Hello world from Brian(a) :tada:
+Hopefully this will create a conflict!
 
