@@ -1,5 +1,5 @@
 # GitHub for Developers
-
+#This is Rada's Branch
 - Class Date: April 16, 2018
 - Facilitator: @brianamarie
 
@@ -31,7 +31,7 @@ Please take a moment to complete the class survey at: https://goo.gl/336isq.
 - [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
 
-### What's Next?
+#### What's Next? 
 
 After you have completed this course, you are probably wondering where to go from here:
 
