@@ -7,5 +7,5 @@ title: "Welcome to our slide deck!"
 {: .center}
 {: .fragment}
 
-more conflict -- less conflict  | conflict 2 | conflict 3
+more conflict -- less conflict  | conflict 2 | conflict 3 | conflict 4
 
