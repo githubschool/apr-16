@@ -7,4 +7,3 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 konnichiha from yoshiyuki
-
