@@ -5,7 +5,12 @@
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention your teacher!**.
+
+If you have a question, or need assistance during class, **please create an issue and mention your teacher!**. -- Changed by Rada, chnage by rajan
+
+If you have a question, or need assistance during class, **please create an issue and mention your teacher!**
+
+
 
 ## Give Us Feedback
 
