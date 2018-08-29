@@ -7,5 +7,7 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 
-Hopefully this will create a conflict!
+
+More changes! Hopefully this will create a conflict!
+
 
